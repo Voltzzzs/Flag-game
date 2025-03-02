@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Flag-game/static/css/main.e44e569c.css",
-    "main.js": "/Flag-game/static/js/main.5ab5f165.js",
-    "static/js/453.5d6e173a.chunk.js": "/Flag-game/static/js/453.5d6e173a.chunk.js",
-    "index.html": "/Flag-game/index.html",
-    "main.e44e569c.css.map": "/Flag-game/static/css/main.e44e569c.css.map",
-    "main.5ab5f165.js.map": "/Flag-game/static/js/main.5ab5f165.js.map",
-    "453.5d6e173a.chunk.js.map": "/Flag-game/static/js/453.5d6e173a.chunk.js.map"
+    "main.css": "/Voltzzzs/Flag-gamen/static/css/main.d4b2bfdc.css",
+    "main.js": "/Voltzzzs/Flag-gamen/static/js/main.9eb4e908.js",
+    "static/js/453.5d6e173a.chunk.js": "/Voltzzzs/Flag-gamen/static/js/453.5d6e173a.chunk.js",
+    "index.html": "/Voltzzzs/Flag-gamen/index.html",
+    "main.d4b2bfdc.css.map": "/Voltzzzs/Flag-gamen/static/css/main.d4b2bfdc.css.map",
+    "main.9eb4e908.js.map": "/Voltzzzs/Flag-gamen/static/js/main.9eb4e908.js.map",
+    "453.5d6e173a.chunk.js.map": "/Voltzzzs/Flag-gamen/static/js/453.5d6e173a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e44e569c.css",
-    "static/js/main.5ab5f165.js"
+    "static/css/main.d4b2bfdc.css",
+    "static/js/main.9eb4e908.js"
   ]
 }
