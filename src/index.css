@@ -8,7 +8,6 @@ body {
 .conteiner{
     align-items: center;
     display: flex;
-    flex-wrap: wrap;
     flex-direction: column;
     padding: 20px;
     margin:30px auto auto auto;
@@ -26,9 +25,8 @@ body {
         justify-content: center;
     }
 
-    .flg_img{
-        width: min(70vw, 150px);
-        max-width: 100%;
+    .conteiner .flg_img{
+        width: 80%;
         height: auto;
     }
 
@@ -46,6 +44,7 @@ body {
 }
 
 .op_conteiner{
+    object-fit: contain;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 10%;
